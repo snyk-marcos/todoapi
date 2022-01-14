@@ -1,4 +1,4 @@
-FROM node:16.13
+FROM node:17.3-bullseye-slim
 
 COPY . /usr/todoapp
 
